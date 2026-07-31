@@ -1,4 +1,5 @@
 # Predicting Cardiovascular Disease Risk
+![Project Cover](Predicating_Cardiovascular_Disease_Risk_Cover.jpg)
 
 ## Overview
 This project applies healthcare analytics and machine learning to predict cardiovascular disease risk using clinical patient data.
